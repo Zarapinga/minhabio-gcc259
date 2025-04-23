@@ -11,4 +11,4 @@ Olá! Esse é um projeto desenvolvido para a disciplina de **Desenvolvimento de 
 
 Meu perfil no Linkedin contém meu currículo. Sinta-se a vontade para dar uma olhada e me arrumar um emprego. Algumas das minhas habilidades mais notáveis são proficiência em Golang e C++, profundo conhecimento teórico em diversas áreas da computação e soft skills vastas e concretas. *Aqui segue o link do meu perfil no linkedin:* www.linkedin.com/in/raulsoares2000
 
-
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWnFLugGM-zlHHLywSgINT-Zjn1sU_SOcAw&s)
